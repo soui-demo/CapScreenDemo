@@ -43,4 +43,3 @@ SOURCES += CapScreenDemo.cpp \
 	CWindowEnumer.cpp
 
 RC_FILE += CapScreenDemo.rc
-RC_INCLUDEPATH+=$(SOUIPATH)/soui-sys-resource
